@@ -37,7 +37,10 @@ Lynne's been using a spreadsheet to keep track of what the jobs are, when these 
 am signed up for
 
 ### Nouns and Verbs
-- nouns: jobs, shifts, volunteers
+- nouns: 
+  - jobs 
+  - shifts
+  - volunteers
 - verbs: 
   - define jobs 
   - define shifts 
