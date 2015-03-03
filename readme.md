@@ -1,5 +1,9 @@
 ## Object Oriented Problem Solving
 
+### History
+
+[Smalltalk](http://en.wikipedia.org/wiki/Smalltalk#Influences)
+
 ### Vocab Quiz!
 - class
 - object
@@ -34,7 +38,16 @@ am signed up for
 
 ### Nouns and Verbs
 - nouns: jobs, shifts, volunteers
-- verbs: define jobs, define shifts, list jobs, list shifts for a job, sign up for jobs, sign up for shifts, list volunteers for a job, list volunteers for a shift, list a volunteer's job and shifts.
+- verbs: 
+  - define jobs 
+  - define shifts 
+  - list jobs
+  - list shifts for a job
+  - sign up for jobs
+  - sign up for shifts
+  - list volunteers for a job 
+  - list volunteers for a shift 
+  - list a volunteer's job and shifts
 
 ### Sketching the Objects
 - Job
